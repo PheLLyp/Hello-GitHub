@@ -1,5 +1,6 @@
-print"------------------------------"
-print"        Teste GitHub          "
-print"------------------------------"
+print("------------------------------")
+print("        Teste GitHub          ")
+print("------------------------------")
 
-print ("Teste é meu primeiro programa de python  usando o python")
+print ('a porra do gordim, é muito gordim')
+print (' seu azarento, n ZOE a ZOEIRA')
